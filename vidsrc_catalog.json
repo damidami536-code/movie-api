@@ -1,0 +1,31 @@
+{
+  "last_updated": "2024-11-10",
+  "movies": [
+    {
+      "tmdb_id": 27205,
+      "title": "Inception",
+      "year": 2010,
+      "type": "movie"
+    },
+    {
+      "tmdb_id": 155,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "type": "movie"
+    }
+  ],
+  "series": [
+    {
+      "tmdb_id": 1399,
+      "title": "Game of Thrones",
+      "type": "series",
+      "total_seasons": 8
+    },
+    {
+      "tmdb_id": 60574,
+      "title": "Peaky Blinders",
+      "type": "series",
+      "total_seasons": 6
+    }
+  ]
+}
